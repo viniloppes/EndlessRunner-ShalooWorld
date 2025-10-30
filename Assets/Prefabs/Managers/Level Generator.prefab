@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9050647717389708173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4291672724392661429}
+  - component: {fileID: 7709113979509273152}
+  m_Layer: 0
+  m_Name: Level Generator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4291672724392661429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9050647717389708173}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7709113979509273152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9050647717389708173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce01bee7a919bb48b2e3f6312a315ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chunkParent: {fileID: 0}
+  checkpointChunkPrefab: {fileID: 1192387252410654850, guid: fff16525bfc59ed42bd4260ebeadae20, type: 3}
+  chunksPrefab:
+  - {fileID: 1192387252410654850, guid: b88c5acfb4c3ea3469ed856480c1bec1, type: 3}
+  - {fileID: 1192387252410654850, guid: c6754a318a2561b4c97f7144ff367bdb, type: 3}
+  - {fileID: 1192387252410654850, guid: c2e5bd609d45a9b458aff192b74f5ef1, type: 3}
+  - {fileID: 1192387252410654850, guid: 621c746c7650727429943bf587f7c76b, type: 3}
+  - {fileID: 1192387252410654850, guid: 621c746c7650727429943bf587f7c76b, type: 3}
+  - {fileID: 1192387252410654850, guid: 621c746c7650727429943bf587f7c76b, type: 3}
+  _cameraController: {fileID: 0}
+  scoreManager: {fileID: 0}
+  startingChunkAmount: 12
+  chunkLength: 10
+  checkpointChunkIntervale: 10
+  minChunckSpeed: 2
+  moveSpeed: 10
+  minMoveSpeed: 2
+  maxMoveSpeed: 18
+  minGravityZ: -20
+  maxGravityZ: -5
