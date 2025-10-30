@@ -1,9 +1,14 @@
 fileFormatVersion: 2
 guid: f1d5828403e9fa144986043f92025f39
 ModelImporter:
-  serializedVersion: 22200
+  serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peasant_Girl
+    second: {fileID: 2100000, guid: 49ede9a208ac46943a01e9a5e3b35694, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -85,6 +90,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8

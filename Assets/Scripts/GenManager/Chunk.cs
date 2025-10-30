@@ -6,7 +6,7 @@ public class Chunk : MonoBehaviour
 {
 
     public GameObject fencePrefab;
-
+    [SerializeField] private bool HasObstacles = false;
     public GameObject lifePrefab;
     public GameObject coinPrefab;
 
@@ -37,6 +37,7 @@ public class Chunk : MonoBehaviour
     void SpawnLanes()
     {
 
+        if (HasObstacles == false) return;
         int lanesToSpawn = Random.Range(0, lanesAvaliable.Count);
         for (int i = 0; i < lanesToSpawn; i++)
         {

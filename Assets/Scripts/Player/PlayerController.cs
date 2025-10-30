@@ -1,22 +1,26 @@
-
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-
     public float moveSpeed = 10f;
     private Vector2 movement;
     private Rigidbody rigidBody;
     public float xClamp = 4f;
     public float zClamp = 2f;
+
+
+    [SerializeField] private float[] lanes = { -2.5f, 0f, 2.5f };
+    private int indexPosAtual = 0;
+
     void Awake()
     {
         rigidBody = GetComponent<Rigidbody>();
     }
+
     void FixedUpdate()
     {
-        HandleMovement();
+        //HandleMovement();
     }
 
     private void HandleMovement()
@@ -34,11 +38,38 @@ public class PlayerController : MonoBehaviour
         rigidBody.MovePosition(newPosition);
     }
 
+    public void MovePlayer(string direction)
+    {
+        switch (direction)
+        {
+            case "Left":
+                if (indexPosAtual > 0)
+                {
+                    indexPosAtual--;
+                    Vector3 moveDirection = new Vector3(lanes[indexPosAtual], 0f, 0f);
+                    rigidBody.MovePosition(moveDirection);
+                }
+
+              
+
+                break;
+            case "Right":
+                if (indexPosAtual < lanes.Length - 1)
+                {
+                    indexPosAtual++;
+                    Vector3 moveDirection = new Vector3(lanes[indexPosAtual], 0f, 0f);
+                    rigidBody.MovePosition(moveDirection);
+                }
+                break;
+            case "Up":
+                break;
+            case "Down":
+                break;
+        }
+    }
+
     public void Move(InputAction.CallbackContext context)
     {
         movement = context.ReadValue<Vector2>();
-
-
     }
-
 }

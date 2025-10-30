@@ -22,7 +22,7 @@ public class Checkpoint : MonoBehaviour
         if (other.CompareTag(playerTagString))
         {
             gameManager.IncreaseTime(timeToIncrease);
-            obstacleSpawner.DecreaseSpawnTime(spawnTimeDecrease);
+            //obstacleSpawner.DecreaseSpawnTime(spawnTimeDecrease);
         }
     }
 }
