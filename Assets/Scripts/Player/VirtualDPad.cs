@@ -4,18 +4,25 @@ using UnityEngine;
 public class VirtualDPad : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI directionText;
-    
+
     Vector2 touchStartPosition;
     Vector2 touchEndPosition;
     string direction = "";
 
+    public bool blockMovement = false;
     private PlayerController playerController;
 
     void Start()
     {
         playerController = FindFirstObjectByType<PlayerController>();
     }
+
     void Update()
+    {
+        HandleTouch();
+    }
+
+    void HandleTouch()
     {
         // --- TOUCH ---
         if (Input.touchCount > 0)
@@ -24,28 +31,37 @@ public class VirtualDPad : MonoBehaviour
 
             if (theTouch.phase == TouchPhase.Began)
             {
+                blockMovement = false;
                 touchStartPosition = theTouch.position;
             }
             else if (theTouch.phase == TouchPhase.Moved || theTouch.phase == TouchPhase.Ended)
             {
-                touchEndPosition = theTouch.position;
-                DetectDirection();
+                if (!blockMovement)
+                {
+                    blockMovement = true;
+                    touchEndPosition = theTouch.position;
+                    DetectDirection();
+                }
             }
         }
 
         // --- MOUSE ---
         if (Input.GetMouseButtonDown(0))
         {
+            blockMovement = false;
             touchStartPosition = Input.mousePosition;
         }
         else if (Input.GetMouseButtonUp(0))
         {
-            touchEndPosition = Input.mousePosition;
-            DetectDirection();
+            if (!blockMovement)
+            {
+                blockMovement = true;
+                touchEndPosition = Input.mousePosition;
+                DetectDirection();
+            }
         }
 
         directionText.text = direction;
-        
     }
 
     void DetectDirection()
@@ -67,5 +83,4 @@ public class VirtualDPad : MonoBehaviour
             direction = y > 0 ? "Up" : "Down";
         }
     }
-
 }

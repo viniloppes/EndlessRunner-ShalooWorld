@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
             playerController.enabled = false;
             _gameOver = true;
             gameOverUI.SetActive(true);
-            Time.timeScale = 0.1f;
+           // Time.timeScale = 0.1f;
         }
     }
 }
