@@ -116,7 +116,7 @@ de novas recompensas e descobertas.
 - **Design de Personagens:** formas arredondadas, cores vibrantes e expressões claras para transmitir **segurança e simpatia**.
 
 Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o jogador com um mundo agradavel, colorido e bonito, com fases em diversos biomas e natureza. Um paraiso para que o jogador se sinta bem jogando, mostrar os perigos mas ainda mais a beleza que há no mundo e a importancia de cuidarmos dele.
-vvvvv
+
 ---
 
 ## 🛠️ Detalhes Técnicos
