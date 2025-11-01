@@ -30,7 +30,8 @@ situações de risco ou lidar com frustrações.
 Shaloo World ajuda Júlia a aprender, de forma divertida,
 sobre empatia, autocuidado e segurança, enquanto reforça
 sua autoconfiança e senso de responsabilidade emocional.
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/williams.jpeg" alt="project-screenshot" height="400">
+
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/williams.jpeg" alt="project-screenshot" height="200">
 
 
 ### High Concept
@@ -50,7 +51,7 @@ O jogo combina **diversão e aprendizado** para estimular comportamentos positiv
 O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e raciocinio oferencendo melhor design e controles do game, onde o componentes de tela serão mais representado por icones e desenhos, com um tamanho consideravel para não oferecer dificuldade na leitura e entendimento. E o controle do game sera por gestoes simples, sendo ele apenas clicar e arrastar, ofereendo facilidade pra criança com dificuldade de movimentos.
 
 ### Moodboard Persona
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/public-moodboard.jpeg" alt="project-screenshot" width="400">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/public-moodboard.jpeg" alt="project-screenshot" height="200">
 
 ---
 
@@ -63,7 +64,7 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 - **Cidade Futurista:** crescimento e segurança.
 - 
 ### Moodboard Ambientação
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/nature-ambience.jpeg" alt="project-screenshot" width="400">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/nature-ambience.jpeg" alt="project-screenshot" height="200">
 
 ### Personagens
 - **Pandy (Protagonista):** panda curioso, gentil e cheio de energia.  
@@ -71,6 +72,8 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 - **Vilão:** representa atitudes impulsivas e distrações.  
 - **Aliados e Neutros:** reforçam conceitos de convivência e empatia.
 
+### Moodboard Personagens
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/characters.png" alt="project-screenshot" height="200">
 ---
 
 ## Mecânicas do jogo
@@ -95,7 +98,7 @@ de novas recompensas e descobertas.
 - **Deslizar:** arrastar para baixo  
 - **Desviar:** arrastar para os lados
   
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/controllers.png" alt="project-screenshot" width="400">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/controllers.png" alt="project-screenshot" height="200">
 
 ### Progressão
 - Coleta de **corações e estrelas** (boas atitudes).  
@@ -103,7 +106,7 @@ de novas recompensas e descobertas.
 - Feedback educativo do **mentor** após cada decisão.
 - 
 ### Moodboard Mecanica
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/mecanicas.jpeg" alt="project-screenshot" width="400">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/mecanicas.jpeg" alt="project-screenshot" height="200">
 
 ---
 
@@ -140,4 +143,4 @@ Objetivo: criar uma experiência **lúdica, inclusiva e educativa** para crianç
 
 ---
 
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/image1.png" alt="project-screenshot" width="400">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/image1.png" alt="project-screenshot" height="200">
