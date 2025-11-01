@@ -6,24 +6,14 @@ Desenvolvido em parceria com a **Associação Brasileira da Síndrome de William
 ---
 
 ## Sumário
-- [Sobre o Jogo](#-sobre-o-jogo)
 - [Público-Alvo e Objetivos](#-público-alvo-e-objetivos)
-- [Funcionalidades (Mecânicas de Jogo)](#-funcionalidades-mecânicas-de-jogo)
 - [Universo e Personagens](#-universo-e-personagens)
+- [Mecânicas do jogo](#-mecânicas-do-jogo)
 - [Detalhes Técnicos](#-detalhes-técnicos)
 - [Direção de Arte](#-direção-de-arte)
 - [Equipe](#-equipe)
 
 ---
-
-## Sobre o Jogo
-**Shaloo World** é um jogo educativo no estilo **endless runner**.  
-O jogador ajuda um personagem carismático a correr por cenários do cotidiano — como **escola, parque, casa e cidade futurista** — tomando decisões que ensinam **empatia, autocuidado e segurança emocional**.  
-
-O jogo combina **diversão e aprendizado** para estimular comportamentos positivos e promover a consciência social de forma acessível, leve e encantadora.
-
----
-
 ## Público-Alvo e Objetivos
 
 ### Público-Alvo
@@ -33,32 +23,63 @@ O jogo combina **diversão e aprendizado** para estimular comportamentos positiv
 
 ### Persona
 Júlia tem 9 anos e foi diagnosticada com Síndrome de Williams. É
-uma criança muito carinhosa, curiosa e comunicativa, que adora
-jogos coloridos e histórias com personagens fofos.
+uma criança muito carinhosa, curiosa e comunicativa, que adora animais, jogos coloridos e histórias com personagens fofos.
 Ela gosta de ajudar os outros e se sente feliz quando faz boas
 escolhas. No entanto, às vezes tem dificuldade em perceber
 situações de risco ou lidar com frustrações.
 Shaloo World ajuda Júlia a aprender, de forma divertida,
 sobre empatia, autocuidado e segurança, enquanto reforça
 sua autoconfiança e senso de responsabilidade emocional.
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/williams.jpeg" alt="project-screenshot" height="400">
+
+
+### High Concept
+**Shaloo World** é um jogo educativo no estilo **endless runner**.  
+O jogador ajuda um personagem carismático a correr por cenários do cotidiano — como **escola, parque, casa e cidade futurista** — tomando decisões que ensinam **empatia, autocuidado e segurança emocional**.  
+
+O jogo combina **diversão e aprendizado** para estimular comportamentos positivos e promover a consciência social de forma acessível, leve e encantadora.
+
 
 ### Objetivos
 - Promover, por meio de narrativas com animais, valores como **empatia, responsabilidade emocional, segurança social e segurança na internet**.  
 - Estimular **coordenação motora, atenção e tempo de reação**.  
 - Reforçar a **autoconfiança** e o **senso de pertencimento**.  
 
-## Proposta de Inclusão
+
+### Proposta de Inclusão
 O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e raciocinio oferencendo melhor design e controles do game, onde o componentes de tela serão mais representado por icones e desenhos, com um tamanho consideravel para não oferecer dificuldade na leitura e entendimento. E o controle do game sera por gestoes simples, sendo ele apenas clicar e arrastar, ofereendo facilidade pra criança com dificuldade de movimentos.
 
-### Moodboard
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/image6.png" alt="project-screenshot" width="400">
+### Moodboard Persona
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/public-moodboard.jpeg" alt="project-screenshot" width="400">
+
+---
+
+## Universo e Personagens
+
+### Ambientação
+- **Escola:** convivência, amizade e cooperação.  
+- **Parque:** curiosidade, cuidado com o outro e meio ambiente.  
+- **Casa:** responsabilidade e segurança cotidiana.  
+- **Cidade Futurista:** crescimento e segurança.
+- 
+### Moodboard Ambientação
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/nature-ambience.jpeg" alt="project-screenshot" width="400">
+
+### Personagens
+- **Pandy (Protagonista):** panda curioso, gentil e cheio de energia.  
+- **Mentor:** guia emocional com mensagens educativas.  
+- **Vilão:** representa atitudes impulsivas e distrações.  
+- **Aliados e Neutros:** reforçam conceitos de convivência e empatia.
 
 ---
 
 ## Mecânicas do jogo
 
-### Condição Vitoria Derrota
-Para o jogador vencer ele deve completar missões a cada partida jogada, progredindo em um caminho. Falhar nas missões ou coletar itens negativos, o jogo podera regredir e perder atributos até que ele perca todo o progresso.
+### Condição de Vitoria 
+Para o jogador vencer ele deve completar missões a cada partida jogada, progredindo em um caminho. 
+
+### Condição de Derrota
+Falhar nas missões ou coletar itens negativos, o jogo podera regredir e perder atributos até que ele perca todo o progresso.
 
 ### Desafios
 Em Shaloo World, o principal desafio é tomar boas decisões enquanto o personagem corre
@@ -72,38 +93,27 @@ de novas recompensas e descobertas.
 ### Controles
 - **Pular:** arrastar para cima  
 - **Deslizar:** arrastar para baixo  
-- **Desviar:** arrastar para os lados  
-- **Decisões:** escolher entre ações positivas (empáticas) ou negativas (de risco)
+- **Desviar:** arrastar para os lados
   
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/controllers.png" alt="project-screenshot" width="400">
 
 ### Progressão
 - Coleta de **corações e estrelas** (boas atitudes).  
 - Dificuldade crescente com novos cenários e lições.  
-- Feedback educativo do **mentor** após cada decisão.  
----
-
-## Universo e Personagens
-
-### Ambientação
-- **Escola:** convivência, amizade e cooperação.  
-- **Parque:** curiosidade, cuidado com o outro e meio ambiente.  
-- **Casa:** responsabilidade e segurança cotidiana.  
-- **Cidade Futurista:** crescimento e segurança.  
-
-### Personagens
-- **Pandy (Protagonista):** panda curioso, gentil e cheio de energia.  
-- **Mentor:** guia emocional com mensagens educativas.  
-- **Vilão:** representa atitudes impulsivas e distrações.  
-- **Aliados e Neutros:** reforçam conceitos de convivência e empatia.  
+- Feedback educativo do **mentor** após cada decisão.
+- 
+### Moodboard Mecanica
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/mecanicas.jpeg" alt="project-screenshot" width="400">
 
 ---
 
 ## Direção de Arte
 - **Estilo:** Toon / Cartunesco e Colorido  
 - **Tipografia:** Berlin Sans FB (amigável e de fácil leitura)  
-- **Design de Personagens:** formas arredondadas, cores vibrantes e expressões claras para transmitir **segurança e simpatia**.  
+- **Design de Personagens:** formas arredondadas, cores vibrantes e expressões claras para transmitir **segurança e simpatia**.
 
+Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o jogador com um mundo agradavel, colorido e bonito, com fases em diversos biomas e natureza. Um paraiso para que o jogador se sinta bem jogando, mostrar os perigos mas ainda mais a beleza que há no mundo e a importancia de cuidarmos dele.
+vvvvv
 ---
 
 ## 🛠️ Detalhes Técnicos
