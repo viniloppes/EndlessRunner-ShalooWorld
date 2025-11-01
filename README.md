@@ -6,14 +6,17 @@ Desenvolvido em parceria com a **Associação Brasileira da Síndrome de William
 ---
 
 ## Sumário
-- [Público-Alvo e Objetivos](#-público-alvo-e-objetivos)
-- [Universo e Personagens](#-universo-e-personagens)
-- [Mecânicas do jogo](#-mecânicas-do-jogo)
-- [Detalhes Técnicos](#-detalhes-técnicos)
-- [Direção de Arte](#-direção-de-arte)
-- [Equipe](#-equipe)
+- [Público-Alvo e Objetivos](#publico-alvo)
+- [Universo e Personagens](#universo-personagens)
+- [Mecânicas do jogo](#mecanicas-jogo)
+- [Personagens](#personagens)
+- [Direção de Arte](#direcao-arte)
+- [Detalhes Técnicos](#detalhes-tecnicos)
+- [Referências Bibliograficas](#bibliografia)
 
 ---
+
+<a name="publico-alvo"></a>
 ## Público-Alvo e Objetivos
 
 ### Público-Alvo
@@ -54,7 +57,7 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/public-moodboard.jpeg" alt="project-screenshot" height="200">
 
 ---
-
+<a name="universo-personagens"></a>
 ## Universo e Personagens
 
 ### Ambientação
@@ -75,7 +78,7 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 ### Moodboard Personagens
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/characters.png" alt="project-screenshot" height="200">
 ---
-
+<a name="mecanicas-jogo"></a>
 ## Mecânicas do jogo
 
 ### Condição de Vitoria 
@@ -122,6 +125,24 @@ sobre empatia, segurança e autocuidado.
 
 ---
 
+<a name="personagens"></a>
+## Personagens
+### Pandy
+O protagonista é Pandy, um pequeno panda curioso, gentil e cheio de energia. Ele adora
+explorar o mundo, conhecer novas pessoas e ajudar quem precisa.
+Pandy representa a pureza e o entusiasmo das crianças, mas também enfrenta desafios
+que exigem atenção, cuidado e boas escolhas. Ao longo da jornada, ele aprende o
+verdadeiro significado de autocuidado, empatia e segurança emocional, mostrando
+que coragem também é saber pedir ajuda e agir com o coração.
+
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/pandy.png" alt="project-screenshot" height="200">
+
+### Inimigo - Predador desfarçado
+O inimigo é um jovem animal com maus costumes que constantemente desafia o jogador a descobrir com resolver possiveis problemas causado por ele. O inimigo não se preocupa com saude do planeta nem com sua propria segurança, ele não gosta da Pandy, mas pandy constatemente o ajuda quando as consequencias de seus erros cai sobre ele.
+
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/tigre.jpg" alt="project-screenshot" height="200">
+
+<a name="direcao-arte"></a>
 ## Direção de Arte
 - **Estilo:** Toon / Cartunesco e Colorido  
 - **Tipografia:** Berlin Sans FB (amigável e de fácil leitura)  
@@ -130,15 +151,15 @@ sobre empatia, segurança e autocuidado.
 Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o jogador com um mundo agradavel, colorido e bonito, com fases em diversos biomas e natureza. Um paraiso para que o jogador se sinta bem jogando, mostrar os perigos mas ainda mais a beleza que há no mundo e a importancia de cuidarmos dele.
 
 ---
-
-## 🛠️ Detalhes Técnicos
+<a name="detalhes-tecnicos"></a>
+## Detalhes Técnicos
 - **Engine:** Unity (3D)  
 - **Plataforma de Lançamento:** Web - Compativel com todas as plataformas  
 - **Classificação Indicativa:** Livre  
 
 ---
 
-## 👥 Equipe
+## Equipe
 **Orientador:** Prof. Dr. Leandro Wendel Martins  
 
 **Desenvolvedores:**  
@@ -149,10 +170,14 @@ Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o
 
 ---
 
-## 📌 Status
-Projeto acadêmico em desenvolvimento.  
-Objetivo: criar uma experiência **lúdica, inclusiva e educativa** para crianças.  
 
----
+<a name="bibliografia"></a>
+## Referencias Bibliograficas
+<a href="https://miro.com/app/board/uXjVJxPx5xk=/" target="_blank">https://miro.com/app/board/uXjVJxPx5xk=/</a>
+
+<a href="
+https://miro.com/app/board/uXjVJxPrDJg=/" target="_blank">
+https://miro.com/app/board/uXjVJxPrDJg=/</a>
 
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/image1.png" alt="project-screenshot" height="200">
+
