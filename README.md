@@ -53,7 +53,7 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 ### Moodboard
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/image6.png" alt="project-screenshot" width="400">
 
---
+---
 
 ## Mecânicas do jogo
 
@@ -73,7 +73,9 @@ de novas recompensas e descobertas.
 - **Pular:** arrastar para cima  
 - **Deslizar:** arrastar para baixo  
 - **Desviar:** arrastar para os lados  
-- **Decisões:** escolher entre ações positivas (empáticas) ou negativas (de risco)  
+- **Decisões:** escolher entre ações positivas (empáticas) ou negativas (de risco)
+  
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/controllers.png" alt="project-screenshot" width="400">
 
 ### Progressão
 - Coleta de **corações e estrelas** (boas atitudes).  
