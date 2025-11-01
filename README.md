@@ -62,7 +62,7 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 - **Parque:** curiosidade, cuidado com o outro e meio ambiente.  
 - **Casa:** responsabilidade e segurança cotidiana.  
 - **Cidade Futurista:** crescimento e segurança.
-- 
+
 ### Moodboard Ambientação
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/nature-ambience.jpeg" alt="project-screenshot" height="200">
 
