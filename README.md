@@ -104,7 +104,19 @@ de novas recompensas e descobertas.
 - Coleta de **corações e estrelas** (boas atitudes).  
 - Dificuldade crescente com novos cenários e lições.  
 - Feedback educativo do **mentor** após cada decisão.
-- 
+
+### Mecânicas Globais
+As mecânicas globais são baseadas em movimentação, escolhas e progressão contínua. O jogador controla Pandy, que corre automaticamente por diferentes cenários, coletando itens e enfrentando desafios.
+
+**Movimentação**: arrastar para cima faz Pandy pular; para baixo, deslizar; e para os lados, desviar de obstáculos.
+
+**Coleta de Itens**: corações e estrelas simbolizam boas atitudes e aumentam a pontuação.
+
+**Sistema de Decisões**: o jogador escolhe entre ações positivas ou negativas, impactando seus pontos e recompensas.
+
+**Progressão**: a dificuldade aumenta gradualmente, com novos cenários e lições
+sobre empatia, segurança e autocuidado.
+
 ### Moodboard Mecanica
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/mecanicas.jpeg" alt="project-screenshot" height="200">
 
