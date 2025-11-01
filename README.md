@@ -117,7 +117,7 @@ As mecânicas globais são baseadas em movimentação, escolhas e progressão co
 **Progressão**: a dificuldade aumenta gradualmente, com novos cenários e lições
 sobre empatia, segurança e autocuidado.
 
-### Moodboard Mecanica
+### Moodboard Mecânica
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/mecanicas.jpeg" alt="project-screenshot" height="200">
 
 ---
