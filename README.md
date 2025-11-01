@@ -77,7 +77,9 @@ O jogo ira ter acessibilitade para crianças com dificuldades de aprendizado e r
 
 ### Moodboard Personagens
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/game-moodboard/characters.png" alt="project-screenshot" height="200">
+
 ---
+
 <a name="mecanicas-jogo"></a>
 ## Mecânicas do jogo
 
