@@ -142,7 +142,7 @@ que coragem também é saber pedir ajuda e agir com o coração.
 ### Inimigo - Predador desfarçado
 O inimigo é um jovem animal com maus costumes que constantemente desafia o jogador a descobrir com resolver possiveis problemas causado por ele. O inimigo não se preocupa com saude do planeta nem com sua propria segurança, ele não gosta da Pandy, mas pandy constatemente o ajuda quando as consequencias de seus erros cai sobre ele.
 
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/tigre.jpg" alt="project-screenshot" height="200">
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/tigre_v2.jpg" alt="project-screenshot" height="200">
 
 <a name="direcao-arte"></a>
 ## Direção de Arte
