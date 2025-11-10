@@ -20,13 +20,13 @@ Desenvolvido em parceria com a **Associação Brasileira da Síndrome de William
 ## Público-Alvo e Objetivos
 
 ### Público-Alvo Primario
-O jogo  foi desenvolvido para crianças de 6 a 12 anos, com foco
-especial na inclusão de pessoas com Síndrome de Williams, estão inseridos em uma escola, e aprendendo naturalmente sobre interagir socialmente e a compreender comportamentos seguros e empáticos do cotidiano. Elas são bem sensiveis emocionalmente, podem amar ou se magoar facilmente  e possuem dificuldade em se expressar corretamente.
+O jogo foi desenvolvido para crianças de 6 a 12 anos, com foco especial na inclusão de pessoas com Síndrome de Williams. Essas crianças estão inseridas em um ambiente escolar e estão em processo natural de aprendizado sobre como interagir socialmente e compreender comportamentos seguros e empáticos no cotidiano. São emocionalmente sensíveis, podendo se apegar ou se magoar com facilidade, e muitas vezes enfrentam dificuldades para se expressar verbalmente de forma clara. O jogo busca oferecer um espaço acolhedor e educativo, que respeite essas características e estimule o desenvolvimento emocional e social de forma lúdica.
 
 ### Público-Alvo Secundario
-- Pessoas com limitações motoras ou deficiência física (6 a 88 anos)  
-- Pessoas com sensibilidade a sons  
-- Crianças neurotípicas, promovendo inclusão e empatia entre diferentes perfis de desenvolvimento  
+Além do público primário, o jogo também é voltado para:
+- Pessoas com limitações motoras ou deficiência física, com idades entre 6 e 88 anos;
+- Pessoas com sensibilidade auditiva ou sensorial;
+- Crianças neurotípicas, promovendo a convivência inclusiva e o desenvolvimento da empatia entre diferentes perfis de desenvolvimento;
 
 ### Persona Publico-Alvo primario
 Ana Clara tem 9 anos, está no ensino fundamental e vive em uma cidade de porte médio, frequentando uma escola inclusiva. Ela tem Síndrome de Williams, é muito sensível emocionalmente, se apega com facilidade às pessoas e pode se magoar rapidamente. Adora música e cores vibrantes, mas enfrenta dificuldades para se expressar verbalmente, preferindo gestos e desenhos como forma de comunicação. Seu maior desejo é se sentir parte do grupo de colegas, aprender de forma divertida e encontrar experiências que transmitam segurança e acolhimento. No jogo, ela busca reforço positivo para se sentir confiante e aprender sobre respeito, amizade e segurança digital enquanto se diverte em missões acessíveis e coloridas.
@@ -37,7 +37,7 @@ Carlos Eduardo tem 35 anos, trabalha em home office e usa os jogos como forma de
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/williams.jpeg" alt="project-screenshot" height="200">
 
 
-### High Concept
+### Visão Geral
 **Shaloo World** é um jogo educativo no estilo **endless runner**.  
 O jogador ajuda um personagem carismático a correr por cenários do cotidiano — como **escola, parque, casa e cidade futurista** — tomando decisões que ensinam **empatia, autocuidado e segurança emocional**.  
 
@@ -45,9 +45,7 @@ O jogo combina **diversão e aprendizado** para estimular comportamentos positiv
 
 
 ### Objetivos
-- Promover, por meio de narrativas com animais, valores como **empatia, responsabilidade emocional, segurança social e segurança na internet**.  
-- Estimular **coordenação motora, atenção e tempo de reação**.  
-- Reforçar a **autoconfiança** e o **senso de pertencimento**.  
+O principal objetivo do jogador em Shaloo World é permanecer o maior tempo possível explorando o mundo do jogo, evitando obstáculos perigosos que podem resultar na perda de pontos ou no encerramento da partida. Além disso, o jogador deve completar missões educativas que promovem valores como respeito, empatia e segurança digital. Ao longo da jornada, é possível acumular medalhas de honra como reconhecimento pelo progresso, superação de desafios e comportamento positivo dentro do universo do jogo.
 
 
 ### Proposta de Inclusão
@@ -69,13 +67,8 @@ Falhar nas missões ou coletar itens negativos, fara com que a saude durante um 
 
 
 ### Desafios
-Em Shaloo World, o principal desafio é tomar boas decisões enquanto o personagem corre
-por diferentes cenários do cotidiano. O jogador precisa desviar de obstáculos, ajudar
-amigos e escolher atitudes seguras e empáticas para continuar avançando.
-Mais do que vencer, o desafio está em agir com responsabilidade emocional,
-aprendendo a reconhecer situações de risco e a importância do autocuidado. Cada
-erro é uma oportunidade de aprendizado, e cada boa escolha aproxima o jogador
-de novas recompensas e descobertas.
+Em Shaloo World, o principal desafio é tomar boas decisões enquanto o personagem corre por diferentes cenários do cotidiano. O jogador precisa desviar de obstáculos, ajudar amigos e escolher atitudes seguras e empáticas para continuar avançando.
+
 
 ### Controles
 - **Pular:** arrastar para cima  
