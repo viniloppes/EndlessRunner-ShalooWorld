@@ -22,13 +22,13 @@ O jogador ajuda um personagem carismático a correr por cenários do cotidiano �
 
 O jogo combina **diversão e aprendizado** para estimular comportamentos positivos e promover a consciência social de forma acessível, leve e encantadora.
 
-**Estilo de jogo**: Aventura educativa runner inclusivo.
-**Foco**: Aprendizado, inclusão, acessibilidade.
-**Experiência proposta**: Diversão, empatia, segurança digital.
-**Tipo de arte**: Cel-Shading 3D.
-**Formato**: Single player.
-**Plataforma**: Dispositivos móveis.
-**Engine**: Unity 6.
+- **Estilo de jogo**: Aventura educativa runner inclusivo.
+- **Foco**: Aprendizado, inclusão, acessibilidade.
+- **Experiência proposta**: Diversão, empatia, segurança digital.
+- **Tipo de arte**: Cel-Shading 3D.
+- **Formato**: Single player.
+- **Plataforma**: Dispositivos móveis.
+- **Engine**: Unity 6.
 
 ---
 
