@@ -14,6 +14,22 @@ Desenvolvido em parceria com a **Associação Brasileira da Síndrome de William
 - [Detalhes Técnicos](#detalhes-tecnicos)
 - [Referências Bibliograficas](#bibliografia)
 
+
+---
+### Visão Geral
+**Shaloo World** é um jogo educativo no estilo **endless runner**.  
+O jogador ajuda um personagem carismático a correr por cenários do cotidiano — como **escola, parque, casa e cidade futurista** — tomando decisões que ensinam **empatia, autocuidado e segurança emocional**.  
+
+O jogo combina **diversão e aprendizado** para estimular comportamentos positivos e promover a consciência social de forma acessível, leve e encantadora.
+
+**Estilo de jogo**: Aventura educativa runner inclusivo.
+**Foco**: Aprendizado, inclusão, acessibilidade.
+**Experiência proposta**: Diversão, empatia, segurança digital.
+**Tipo de arte**: Cel-Shading 3D.
+**Formato**: Single player.
+**Plataforma**: Dispositivos móveis.
+**Engine**: Unity 6.
+
 ---
 
 <a name="publico-alvo"></a>
@@ -36,12 +52,6 @@ Carlos Eduardo tem 35 anos, trabalha em home office e usa os jogos como forma de
 
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/williams.jpeg" alt="project-screenshot" height="200">
 
-
-### Visão Geral
-**Shaloo World** é um jogo educativo no estilo **endless runner**.  
-O jogador ajuda um personagem carismático a correr por cenários do cotidiano — como **escola, parque, casa e cidade futurista** — tomando decisões que ensinam **empatia, autocuidado e segurança emocional**.  
-
-O jogo combina **diversão e aprendizado** para estimular comportamentos positivos e promover a consciência social de forma acessível, leve e encantadora.
 
 
 ### Objetivos
