@@ -185,12 +185,7 @@ Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o
 
 
 <a name="bibliografia"></a>
-## Referencias Bibliograficas
-<a href="https://miro.com/app/board/uXjVJxPx5xk=/" target="_blank">https://miro.com/app/board/uXjVJxPx5xk=/</a>
 
-<a href="
-https://miro.com/app/board/uXjVJxPrDJg=/" target="_blank">
-https://miro.com/app/board/uXjVJxPrDJg=/</a>
 
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/image1.png" alt="project-screenshot" height="200">
 
