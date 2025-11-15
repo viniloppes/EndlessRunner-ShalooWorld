@@ -169,8 +169,16 @@ Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o
 - **Classificação Indicativa:** Livre  
 
 ---
+## Plataforma de publicação
+O jogo será publicado na Web. Enquanto não possui domínio próprio, será disponibilizado em uma plataforma provisória, simulando uma situação real de produção. Dessa forma, poderá ser jogado em todos os dispositivos.
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/softwares/github.png" alt="project-screenshot" height="200">
+
+---
 ## Sofwares
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/softwares/softwares.jpeg" alt="project-screenshot" height="200">
+
+## Versões futuras
+Para oferecer uma melhor experiência ao usuário, os autores do jogo planejam implementar um banco de dados, possibilitando funcionalidades online como salvar o progresso na nuvem, adicionar amigos, acessar rankings e outras opções que ampliem a interação e o engajamento dos jogadores.
 
 ## Equipe
 **Orientador:** Prof. Dr. Leandro Wendel Martins  
